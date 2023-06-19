@@ -3,4 +3,4 @@ WeatherApp is a simple and intuitive weather application that provides current w
 
 
 
-live link=https://mridusmitac.github.io/_WeatherApp_/
+live link= https://mridusmitac.github.io/_WeatherApp_/
